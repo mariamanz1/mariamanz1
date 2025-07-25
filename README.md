@@ -1,8 +1,10 @@
+### 👩‍💻 AI Student | Passionate about Real-World AI Solutions
+
 ### Hi there, I'm Mariam Ahmed Anz 👋
 
 🎓 AI Student at Kafrelsheikh University  
 💡 I’m passionate about Machine Learning, Deep Learning, and Computer Vision  
-📫 How to reach me: mrymnz160@gmail.com | [LinkedIn](www.linkedin.com/in/mariamanz)
+📫 How to reach me: mrymnz160@gmail.com | [LinkedIn](https://www.linkedin.com/in/mariamanz)
 
 ---
 
@@ -30,5 +32,3 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamanz&show_icons=true&theme=default)
